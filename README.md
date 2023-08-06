@@ -22,9 +22,9 @@ With 9 years of professional experience in web development, I am a seasoned full
 I am driven by my passion for engineering and always strive to exceed expectations. I am confident in my ability to contribute to any team and deliver high-quality results that meet and exceed expectations.
 Thank you for your consideration.
 </h4>
-<h4 align="center">
+<h3 align="center">
 <b><i>I'm an Engineer who does not see a limit to the possibilities, and loves what he does.</i></b>
-</h4>
+</h3>
 
 [//]: # (![Top Languages Card]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=baghdasarov&theme=chartreuse-dark&layout=compact&#41;)
 [//]: # (![Github stats]&#40;https://github-readme-stats.vercel.app/api?username=baghdasarov&theme=chartreuse-dark&show_icons=true&count_private=true&#41;)
