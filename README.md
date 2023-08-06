@@ -80,7 +80,9 @@ I'm an Engineer who does not see a limit to the possibilities, and loves what he
 [![Neovim](https://img.shields.io/badge/-Nvim-333333?style=flat-square&logo=vim&logoColor=green)](https://neovim.io/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 <hr>
+
 #### Full List:
+
 <p align="left"style="background: rgb(201,223,247); 
 padding: 10px 20px;
 border-radius: 10px">
