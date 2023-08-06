@@ -13,20 +13,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Norayr</h1>
-<h3 align="center">I'm an Engineer who does not see a limit to the possibilities, thinks outside the box, and loves what he does.</h3>
+<h1 align="center">
+Hi 👋, I'm Norayr
+</h1>
+
+<h3 align="center">
+With 9 years of professional experience in web development, I am a seasoned full-stack developer with a strong educational background in computer science. My experience has allowed me to hone my skills in managing projects, meeting deadlines, and building projects from scratch. As a team player, I pay great attention to detail and thrive on challenging projects that require thinking outside of the box.
+I am driven by my passion for engineering and always strive to exceed expectations. I am confident in my ability to contribute to any team and deliver high-quality results that meet and exceed expectations.
+Thank you for your consideration.
+</h3>
+<h3 align="center" style="font-style: italic">
+I'm an Engineer who does not see a limit to the possibilities, and loves what he does.
+</h3>
 
 [//]: # (![Top Languages Card]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=baghdasarov&theme=chartreuse-dark&layout=compact&#41;)
 [//]: # (![Github stats]&#40;https://github-readme-stats.vercel.app/api?username=baghdasarov&theme=chartreuse-dark&show_icons=true&count_private=true&#41;)
 [//]: # (![Github stats]&#40;https://github-readme-stats.vercel.app/api?username=baghdasarov&theme=vue&show_icons=true&count_private=true&#41;)
 [//]: # (![Github stats]&#40;https://github-readme-stats.vercel.app/api?username=baghdasarov&theme=holi&show_icons=true&count_private=true&#41;)
-[//]: # (chartreuse-dark,vue,prussian,blue-green,blue_navy,holi) 
+[//]: # (chartreuse-dark,vue,prussian,blue-green,blue_navy,holi)
 
+&nbsp;
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baghdasarov&theme=holi&show_icons=true&count_private=true" />
 </a>
 </div>
+&nbsp;
 
 ### Languages & Tools
 #### Short List
@@ -67,7 +79,7 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Neovim](https://img.shields.io/badge/-Nvim-333333?style=flat-square&logo=vim&logoColor=green)](https://neovim.io/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
-
+<hr>
 #### Full List:
 <p align="left"style="background: rgb(201,223,247); 
 padding: 10px 20px;
@@ -575,14 +587,11 @@ border-radius: 10px">
   </a>
 </p>
 
-[//]: # (<p align="left"> )
-
+[//]: # (<p align="center">)
 [//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy">)
-
-[//]: # (<img src="https://github-profile-trophy.vercel.app/?username=baghdasarov" alt="baghdasarov" /></a> )
-
+[//]: # (<img src="https://github-profile-trophy.vercel.app/?username=baghdasarov" alt="baghdasarov" /></a>)
 [//]: # (</p>)
-[//]: # (&nbsp;)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/baghdasarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baghdasarov" height="30" width="35" /></a>
