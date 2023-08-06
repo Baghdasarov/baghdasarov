@@ -19,7 +19,7 @@ Hi 👋, I'm Norayr
 <h3 align="center">
 <b><i>I'm an Engineer who does not see a limit to the possibilities, and loves what he does.</i></b>
 </h3>
-&nbsp;
+
 <h4 align="center">
 With 9 years of professional experience in web development, I am a seasoned full-stack developer with a strong educational background in computer science. My experience has allowed me to hone my skills in managing projects, meeting deadlines, and building projects from scratch. As a team player, I pay great attention to detail and thrive on challenging projects that require thinking outside of the box.
 I am driven by my passion for engineering and always strive to exceed expectations. I am confident in my ability to contribute to any team and deliver high-quality results that meet and exceed expectations.
