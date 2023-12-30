@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-Hi 👋, I'm Norayr
+Welcome, to my GitHub account 🦄
 </h1>
 <h3 align="center">
-<b><i>I'm an Engineer who does not see a limit to the possibilities, and loves what he does.</i></b>
+<b><i>Norayr Baghdasarov</i></b>
 </h3>
 
 <h4 align="center">
