@@ -47,7 +47,6 @@ My technical proficiency spans a wide array of technologies, and I'm truly passi
 [//]: # (&nbsp;)
 
 ### Languages & Tools
-#### Short List
 
 [![PHP](https://img.shields.io/badge/-PHP-21232F?logo=php&logoColor=blue)](https://www.php.net/)&nbsp;
 [![Laravel](https://img.shields.io/badge/-Laravel-E4392C?logo=laravel&logoColor=white)](https://laravel.com/)
@@ -86,8 +85,6 @@ My technical proficiency spans a wide array of technologies, and I'm truly passi
 [![Neovim](https://img.shields.io/badge/-Nvim-333333?style=flat-square&logo=vim&logoColor=green)](https://neovim.io/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 <hr>
-
-#### Full List:
 
 <p align="left" style="background: rgb(201,223,247); 
 padding: 10px 20px;
@@ -604,4 +601,6 @@ border-radius: 10px">
 <p align="center">
 <a href="https://linkedin.com/in/baghdasarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baghdasarov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7338116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7338116" height="30" width="40" /></a>
+<a href="https://www.instagram.com/baghdasarov_norayr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7338116" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/baghdasarov" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="7338116" height="30" width="40" /></a>
 </p>
