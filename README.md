@@ -21,9 +21,13 @@ Hi 👋, I'm Norayr
 </h3>
 
 <h4 align="center">
-With 9 years of professional experience in web development, I am a seasoned full-stack developer with a strong educational background in computer science. My experience has allowed me to hone my skills in managing projects, meeting deadlines, and building projects from scratch. As a team player, I pay great attention to detail and thrive on challenging projects that require thinking outside of the box.
-I am driven by my passion for engineering and always strive to exceed expectations. I am confident in my ability to contribute to any team and deliver high-quality results that meet and exceed expectations.
-Thank you for your consideration.
+With 10 years of professional experience in web development, I'm a highly accomplished Software Engineer. My educational background in computer science has equipped me with a solid foundation, and my extensive experience has allowed me to excel in various aspects of the field.
+
+I have a proven track record of successfully managing projects, consistently meeting deadlines, and creating projects from the ground up. As a dedicated team player, I'm known for my meticulous attention to detail and my enthusiasm for tackling challenging projects that demand creative problem-solving.
+
+My technical proficiency spans a wide array of technologies, and I'm truly passionate about engineering. I consistently strive to surpass expectations and am confident in my ability to make significant contributions to any team, delivering high-quality results that not only meet but also exceed expectations.
+           
+I'm an Engineer who does not see a limit to the possibilities.
 </h4>
 
 [//]: # (![Top Languages Card]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=baghdasarov&theme=chartreuse-dark&layout=compact&#41;)
@@ -32,13 +36,13 @@ Thank you for your consideration.
 [//]: # (![Github stats]&#40;https://github-readme-stats.vercel.app/api?username=baghdasarov&theme=holi&show_icons=true&count_private=true&#41;)
 [//]: # (chartreuse-dark,vue,prussian,blue-green,blue_navy,holi)
 
-&nbsp;
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baghdasarov&theme=holi&show_icons=true&count_private=true" />
-</a>
-</div>
-&nbsp;
+[//]: #  &nbsp;
+[//]: #  <div align="center">
+[//]: #  <a href="https://github.com/anuraghazra/github-readme-stats">
+[//]: #  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baghdasarov&theme=holi&show_icons=true&count_private=true" />
+[//]: #  </a>
+[//]: #  </div>
+[//]: #  &nbsp;
 
 ### Languages & Tools
 #### Short List
