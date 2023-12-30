@@ -26,9 +26,11 @@ With 10 years of professional experience in web development, I'm a highly accomp
 I have a proven track record of successfully managing projects, consistently meeting deadlines, and creating projects from the ground up. As a dedicated team player, I'm known for my meticulous attention to detail and my enthusiasm for tackling challenging projects that demand creative problem-solving.
 
 My technical proficiency spans a wide array of technologies, and I'm truly passionate about engineering. I consistently strive to surpass expectations and am confident in my ability to make significant contributions to any team, delivering high-quality results that not only meet but also exceed expectations.
-
-<div style="text-align: right; margin-top: 50px">I'm an Engineer who does not see a limit to the possibilities.</div>
 </h4>
+<br />
+<h4 align="right">
+    I'm an Engineer who does not see a limit to the possibilities.
+</h4> 
 
 [//]: # (![Top Languages Card]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=baghdasarov&theme=chartreuse-dark&layout=compact&#41;)
 [//]: # (![Github stats]&#40;https://github-readme-stats.vercel.app/api?username=baghdasarov&theme=chartreuse-dark&show_icons=true&count_private=true&#41;)
