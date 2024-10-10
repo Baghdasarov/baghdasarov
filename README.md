@@ -21,7 +21,7 @@ Welcome, to my GitHub account 🦄
 </h3>
 
 <h4 align="center">
-With 10 years of professional experience in web development, I'm a highly accomplished Software Engineer. My educational background in computer science has equipped me with a solid foundation, and my extensive experience has allowed me to excel in various aspects of the field.
+With 11 years of professional experience in web development, I'm a highly accomplished Software Engineer. My educational background in computer science has equipped me with a solid foundation, and my extensive experience has allowed me to excel in various aspects of the field.
 
 I have a proven track record of successfully managing projects, consistently meeting deadlines, and creating projects from the ground up. As a dedicated team player, I'm known for my meticulous attention to detail and my enthusiasm for tackling challenging projects that demand creative problem-solving.
 
@@ -48,14 +48,10 @@ My technical proficiency spans a wide array of technologies, and I'm truly passi
 
 ### Languages & Tools
 
-[![PHP](https://img.shields.io/badge/-PHP-21232F?logo=php&logoColor=blue)](https://www.php.net/)&nbsp;
-[![Laravel](https://img.shields.io/badge/-Laravel-E4392C?logo=laravel&logoColor=white)](https://laravel.com/)
-[![Python](https://img.shields.io/badge/-Python-21232F?logo=python&logoColor=white)](https://www.python.org/)&nbsp;
-[![C#.NET](https://img.shields.io/badge/-.NET-log?logo=.NET&logoColor=white&color=802bd0)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+[![Node.js](https://img.shields.io/badge/-Node.js-js?logo=node.js&logoColor=white)](https://nodejs.org/en)&nbsp;
+[![Typescript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 &nbsp;
 [![Javascript](https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
-&nbsp;
-[![Typescript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 &nbsp;
 [![React](https://img.shields.io/badge/-React-01d8ff?logo=react&logoColor=ffffff)](https://reactjs.org/)&nbsp;
 [![Redux](https://img.shields.io/badge/-Redux-7649bc?logo=redux&logoColor=ffffff)](https://redux.js.org/)&nbsp;
@@ -63,6 +59,9 @@ My technical proficiency spans a wide array of technologies, and I'm truly passi
 &nbsp;
 [![Vuetify](https://img.shields.io/badge/-Vuetify-1696f5?style=flat-square&logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
 &nbsp;
+[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)&nbsp;
+[![PHP](https://img.shields.io/badge/-PHP-21232F?logo=php&logoColor=blue)](https://www.php.net/)&nbsp;
+[![Laravel](https://img.shields.io/badge/-Laravel-E4392C?logo=laravel&logoColor=white)](https://laravel.com/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
 &nbsp;
 [![Docker](https://img.shields.io/badge/-Docker-253139?style=flat-square&logo=Docker&logoColor=blue)](https://www.docker.com/)
@@ -75,7 +74,6 @@ My technical proficiency spans a wide array of technologies, and I'm truly passi
 [![MySQL](https://img.shields.io/badge/-MySQL-21232F?logo=mysql&logoColor=blue)](https://www.mysql.com/)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-97AFC8?style=flat-square&logo=postgresql&logoColor=blue&color=white)](https://www.postgresql.org/)
 &nbsp;
-[![Node.js](https://img.shields.io/badge/-Node.js-js?logo=node.js&logoColor=white)](https://nodejs.org/en)&nbsp;
 [![NPM](https://img.shields.io/badge/-NPM-logo?logo=npm&logoColor=white&color=red)](https://www.npmjs.com/)&nbsp;
 [![PNPM](https://img.shields.io/badge/-PNPM-21232F?logo=pnpm&logoColor=blue)](https://www.pnpm.io/)&nbsp;
 [![Yarn](https://img.shields.io/badge/-Yarn-21232F?logo=yarn&logoColor=blue)](https://www.yarn.net/)&nbsp;
@@ -83,7 +81,8 @@ My technical proficiency spans a wide array of technologies, and I'm truly passi
 &nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Neovim](https://img.shields.io/badge/-Nvim-333333?style=flat-square&logo=vim&logoColor=green)](https://neovim.io/)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+<!-- [![Python](https://img.shields.io/badge/-Python-21232F?logo=python&logoColor=white)](https://www.python.org/)&nbsp;
+[![C#.NET](https://img.shields.io/badge/-.NET-log?logo=.NET&logoColor=white&color=802bd0)](https://dotnet.microsoft.com/en-us/apps/aspnet)&nbsp; -->
 <hr>
 
 <p align="left" style="background: rgb(201,223,247); 
