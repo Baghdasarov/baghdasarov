@@ -21,11 +21,11 @@ Welcome, to my GitHub account 🦄
 </h3>
 
 <h4 align="center">
-With 11 years of professional experience in web development, I'm a highly accomplished Software Engineer. My educational background in computer science has equipped me with a solid foundation, and my extensive experience has allowed me to excel in various aspects of the field.
+With 11 years of professional experience in web development, I am a highly accomplished Software Engineer. My educational background in computer science has equipped me with a solid foundation, and my extensive experience has allowed me to excel in various aspects of the field.
+    
+I have a proven track record of successfully managing projects, consistently meeting deadlines, and creating projects from the ground up. As a dedicated team player, I am known for my meticulous attention to detail and my enthusiasm for tackling challenging projects that demand creative problem-solving.
 
-I have a proven track record of successfully managing projects, consistently meeting deadlines, and creating projects from the ground up. As a dedicated team player, I'm known for my meticulous attention to detail and my enthusiasm for tackling challenging projects that demand creative problem-solving.
-
-My technical proficiency spans a wide array of technologies, and I'm truly passionate about engineering. I consistently strive to surpass expectations and am confident in my ability to make significant contributions to any team, delivering high-quality results that not only meet but also exceed expectations.
+My technical proficiency spans a wide array of technologies, and I am truly passionate about engineering. I consistently strive to surpass expectations and am confident in my ability to make significant contributions to any team, delivering high-quality results that not only meet but also exceed expectations.
 </h4>
 <br />
 <h4 align="right">
